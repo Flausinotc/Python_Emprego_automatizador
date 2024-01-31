@@ -10,6 +10,7 @@ O projeto utiliza o Selenium, uma biblioteca Python para automação de navegado
 2. Acessa um site de empregos com base em termos de pesquisa definidos.
 3. Localiza todas as descrições de vagas disponíveis na página.
 4. Extrai as descrições de vagas e as armazena em um arquivo Excel.
+5. Envia o seu curriculo para as vagas mineradas de uma pasta especifica.
 
 ## Pré-Requisitos
 
